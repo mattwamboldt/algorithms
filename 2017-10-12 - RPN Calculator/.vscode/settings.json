@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "xutility": "cpp",
+        "xstring": "cpp",
+        "initializer_list": "cpp",
+        "type_traits": "cpp",
+        "xiosbase": "cpp",
+        "iostream": "cpp",
+        "istream": "cpp",
+        "system_error": "cpp",
+        "xlocale": "cpp",
+        "cmath": "cpp"
+    }
+}
