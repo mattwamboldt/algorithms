@@ -1,2 +1,3 @@
-# dailyCode
-Coding a new thing every day
+# Algorithm Examples
+
+Learning repository for various algorithms
